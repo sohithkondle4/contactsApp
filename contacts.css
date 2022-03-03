@@ -1,0 +1,23 @@
+.form-heading {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.cart-items-heading {
+    font-size: 20px;
+    text-align: center;
+}
+
+.cart-items-container {
+    text-align: center;
+    list-style-type: none;
+}
